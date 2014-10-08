@@ -1,0 +1,1 @@
+Alignments from Thornton, K. and M. Long. (2005) Excess of amino acid substitutions relative to polymorphism between X-linked duplications in _Drosophila melanogaster_.  Molecular Biology and Evolution __22__: 273-284
